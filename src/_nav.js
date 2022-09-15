@@ -23,7 +23,7 @@ import {
   
   const items = [
 
-    //  getItem('User Record ', '/', <PieChartOutlined />),
+
     getItem('Bar Chart', '/barchart', <BarChartOutlined />),
     getItem('Stack Area', '/stackarea', <LineChartOutlined />),
     getItem('Donut Chart', '/donutchart',<PieChartOutlined />),

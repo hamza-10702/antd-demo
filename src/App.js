@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<BarChart />} />
         <Route path="/barchart" element={<BarChart />} />
         <Route path="/stackarea" element={<StackArea />} />
         <Route path="/donutchart" element={<DonutChart />} />
